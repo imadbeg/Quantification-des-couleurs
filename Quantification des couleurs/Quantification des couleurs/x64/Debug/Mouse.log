@@ -1,0 +1,2 @@
+﻿  mainmouse.cpp
+D:\imad\TDopencv\Mouse\Mouse\mainmouse.cpp(2,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'opencv2/highgui/highgui.hpp' : No such file or directory
